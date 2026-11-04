@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Management System",
+  "description": "Comprehensive role-based attendance management system for educational institutions with Admin, Teacher, and Student portals, attendance analytics, calculator, leave management, reports, notifications, activity logs, AI assistant, and PHP/MySQL database export.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+node_modules/
+.venv-face/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+data/auth-store.json
+
+# Aider Studio (auto-added)
+REPO_MAP.md
+.aider/
+
+# BOB workspace memory
+.bob/
+data/face-models/
+data/face-embeddings.json
+data/face-embeddings.key
